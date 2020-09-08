@@ -1,3 +1,16 @@
-/*
+/*.html
+	cache-control: public
+	cache-control: max-age=0
+	cache-control: must-revalidate
+
+/*.css
+	cache-control: public
+	cache-control: max-age=604800
+
+/*.ico
+	cache-control: public
+	cache-control: max-age=604800
+
+/*.png
 	cache-control: public
 	cache-control: max-age=604800
